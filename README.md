@@ -59,7 +59,7 @@ So, in this picture, the structure in the nav bar is at the top left. The part u
 <hr>
 
 ## 4. Past Winners of Entrepreneurs Challenge!
-Go to the pastwinner folder or this <a src="https://yclanlan.github.io/Berkley-Center-Website-Note/pastwinner/">[link](https://yclanlan.github.io/Berkley-Center-Website-Note/pastwinner/)</a>
+Go to the pastwinner folder or this <a src="https://yclanlan.github.io/Berkley-Center-Website-Note-main/pastwinner/">[link](https://yclanlan.github.io/Berkley-Center-Website-Note-main/pastwinner/)</a>
 
 I put the content into separate pages (in the GitHub!) 
 so we can put them into the tabs in the Elementers component.
