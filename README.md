@@ -33,7 +33,7 @@ Drag it can change it to a different folder.
 <hr>
 
 ## 2. About Navigation Bar!
-Go to the NavBar folder or this <a src="https://yclanlan.github.io/Berkley-Center-Website-Note/NavBar/">[link](https://yclanlan.github.io/Berkley-Center-Website-Note/NavBar/)</a>
+Go to the NavBar folder or this <a src="https://yclanlan.github.io/Berkley-Center-Website-Note-main/NavBar/">[link](https://yclanlan.github.io/Berkley-Center-Website-Note-main/NavBar/)</a>
 
 <img width="1512" alt="截圖 2024-03-07 上午11 01 39" src="https://github.com/yclanlan/Past-Winners---Berkley-Center-for-Entrepreneurship_files/assets/97862198/64eb88c1-a47d-4915-863b-79a41597d077">
 
