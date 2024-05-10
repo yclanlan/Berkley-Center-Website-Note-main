@@ -7,7 +7,8 @@ the contents in the tab component
 
 
 
-
-
+update: 
+In 3 columns folder, I tested how it looks like
+but only the oldest few ones~
 
 
