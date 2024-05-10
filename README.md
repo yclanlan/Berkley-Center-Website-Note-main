@@ -18,11 +18,17 @@ _____
 
 ## 1. Structure of the website
 
-Now, the pages in WordPress are placed in the folders based on the content structured in the navigation bar. 
+(Before starting, in my understanding, there are two ways to add content in WordPress: posts and pages. I used pages most of the time!)
+
+Now, WordPress pages are placed in folders based on the content structured in the navigation bar. 
 
 Be sure to duplicate a page every time you create a new one. ( And clean up the old pages sometimes!)
 
 ![截圖 2024-05-10 上午9 49 34](https://github.com/yclanlan/Berkley-Center-Website-Note/assets/97862198/967b3725-386a-4492-923b-5a03dfe1a62d)
+
+Drag it can change it to a different folder.
+![截圖 2024-05-10 下午12 05 57（2）](https://github.com/yclanlan/Berkley-Center-Website-Note-main/assets/97862198/f6d09442-1efe-450e-ad0d-099aa42285fc)
+
 
 <hr>
 
